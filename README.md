@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full Stack Mern on MindHub
 
 - 📫 How to reach me:     
-  pungitoregerman@gmail.com 
+  pungitoregerman@gmail.com         
   www.linkedin.com/in/pungitoregerman
 
 <!--
