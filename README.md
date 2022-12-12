@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there , I'm German Pungitore👋
 
+- 🌱 I’m currently learning Full Stack Mern on MindHub
+
+- 📫 How to reach me:
+[LinkedIn](www.linkedin.com/in/pungitoregerman)
+[Email](pungitoregerman@gmail.com)
+
+## Languages and Tools
+https://img.shields.io/badge/HTML-D14836?style=for-the-badge&logo=gmail&logoColor=white
 <!--
 **pungitoregerman/pungitoregerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
