@@ -2,10 +2,9 @@
 
 - 🌱 I’m currently learning Full Stack Mern on MindHub
 
-- 📫 How to reach me:   
-[LinkedIn](www.linkedin.com/in/pungitoregerman)       
-[Email](pungitoregerman@gmail.com)
-
+- 📫 How to reach me:     
+  pungitoregerman@gmail.com 
+  www.linkedin.com/in/pungitoregerman
 
 <!--
 **pungitoregerman/pungitoregerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
