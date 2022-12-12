@@ -6,6 +6,9 @@
   pungitoregerman@gmail.com         
   www.linkedin.com/in/pungitoregerman
 
+- ⚡ I’m looking to collaborate on projects that I can put my knowledge into practice and be able to acquire new
+       
+
 <!--
 **pungitoregerman/pungitoregerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
