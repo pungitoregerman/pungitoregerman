@@ -19,9 +19,9 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)      
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pungitoregerman)](https://github.com/pungitoregerman/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pungitoregerman&theme=radical)
 <!--
 **pungitoregerman/pungitoregerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
