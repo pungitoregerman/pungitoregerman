@@ -23,11 +23,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pungitoregerman&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pungitoregerman&theme=radical)    
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cornicheli&show_icons=true&locale=en&layout=compact" alt="cornicheli" /></p>         
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cornicheli&" alt="cornicheli" />
+![](https://komarev.com/ghpvc/?username=pungitoregerman&style=flat-square)
 <!--
 **pungitoregerman/pungitoregerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
