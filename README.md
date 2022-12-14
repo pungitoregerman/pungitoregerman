@@ -24,6 +24,10 @@
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pungitoregerman&theme=radical)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cornicheli&show_icons=true&locale=en&layout=compact" alt="cornicheli" /></p>         
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cornicheli&" alt="cornicheli" />
 <!--
 **pungitoregerman/pungitoregerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
